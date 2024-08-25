@@ -1,0 +1,50 @@
+body {
+    font-family: "Roboto";
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+.post{
+    border: 0px solid black;
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 20px;
+    background-color: white;
+    padding-bottom: 10px;
+}
+.post-body{
+    color: black;
+    background-color: white;
+    padding: 5px;
+    
+}
+.puntos {
+    font-size: 50px;
+    margin-left: auto;
+    
+}
+.post-header {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+
+.post-img img{
+    background-color: white;
+    width: 100%;
+}
+.post-icons {
+    display: flex;
+    justify-content: space-between;
+    font-size: 30px;
+}
+
+.html5 {
+    font-size: 50px;
+}
+.texto {
+
+    line-height: 0%;
+}
